@@ -1,1 +1,1 @@
-# Pomodoro_Timer
+Time management is one of the essential skills to gain for succeeding in any kind of work. The Pomodoro technique is an established way to reduce procrastination and distraction while improving efficiency and productivity. In this technique, you work for shorter periods and take quick breaks in between instead of working continually. In this article, we discuss what the Pomodoro technique is and how to use it, explain its benefits and provide some useful tips to use this technique effectively at work.<br>
